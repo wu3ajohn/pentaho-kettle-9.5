@@ -53,7 +53,7 @@
     <license.licenseName>apache_v2</license.licenseName>
 
     <!-- Pentaho dependencies -->
-    <commons-xul.version>9.5.2.0-273</commons-xul.version>
+    <commons-xul.version>9.4.0.0-SNAPSHOT</commons-xul.version>
     <pentaho-metastore.version>9.4.0.0-SNAPSHOT</pentaho-metastore.version>
 
     <!-- Third-party dependencies -->
