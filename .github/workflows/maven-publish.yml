@@ -5,7 +5,7 @@ name: Maven Package
 
 on:
   pull_request:
-    branches: [ "master" ]
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
@@ -35,4 +35,3 @@ jobs:
       with:
         name: java-app
         path: target/*.jar
-		
