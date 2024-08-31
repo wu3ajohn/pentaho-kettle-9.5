@@ -18,6 +18,7 @@
   <properties>
     <maven-replacer-plugin.version>1.5.2</maven-replacer-plugin.version>
     <mockito.version>4.0.0</mockito.version>
+    <platform.version>9.4.0.0-SNAPSHOT</platform.version>
   </properties>
 
   <dependencies>
@@ -46,6 +47,7 @@
     <dependency>
       <groupId>pentaho</groupId>
       <artifactId>pentaho-platform-extensions</artifactId>
+      <version>${platform.version}</version>
     </dependency>
     <dependency>
       <groupId>pentaho</groupId>

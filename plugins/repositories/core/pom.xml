@@ -23,6 +23,7 @@
     <eclipse.version>3.6.0</eclipse.version>
     <junit.version>4.11</junit.version>
     <js.project.list>requirejs,requirejs-text,angular,require-css,angular-i18n</js.project.list>
+    <platform.version>9.4.0.0-SNAPSHOT</platform.version>
   </properties>
 
   <dependencies>
@@ -81,7 +82,7 @@
     <dependency>
       <groupId>pentaho</groupId>
       <artifactId>pentaho-platform-extensions</artifactId>
-      <version>${project.version}</version>
+      <version>${platform.version}</version>
       <scope>provided</scope>
       <exclusions>
         <exclusion>

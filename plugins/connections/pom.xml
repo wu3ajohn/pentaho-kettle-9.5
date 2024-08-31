@@ -34,6 +34,7 @@
     <dependency.javax.servlet-api.version>3.0.1</dependency.javax.servlet-api.version>
     <dependency.javax.ws.rs-api.version>2.0</dependency.javax.ws.rs-api.version>
     <dojo.version>1.9.2</dojo.version>
+    <platform.version>9.4.0.0-SNAPSHOT</platform.version>
   </properties>
   <dependencyManagement>
     <dependencies>
@@ -58,7 +59,7 @@
       <dependency>
         <groupId>pentaho</groupId>
         <artifactId>pentaho-platform-extensions</artifactId>
-        <version>${project.version}</version>
+        <version>${platform.version}</version>
         <scope>provided</scope>
         <exclusions>
           <exclusion>
