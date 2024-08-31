@@ -119,7 +119,7 @@
     <dependency>
       <groupId>pentaho</groupId>
       <artifactId>metastore</artifactId>
-      <version>9.4.0.0-SNAPSHOT</version>
+      <version>${pentaho-metastore.version}</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>
