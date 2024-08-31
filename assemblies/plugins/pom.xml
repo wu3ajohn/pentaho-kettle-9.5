@@ -65,7 +65,7 @@
     <mqtt-streaming-plugin.version>${project.version}</mqtt-streaming-plugin.version>
     <pentaho-s3-vfs-plugin.version>${project.version}</pentaho-s3-vfs-plugin.version>
     <pdi-avro-format-plugin.version>${project.version}</pdi-avro-format-plugin.version>
-    <pentaho-metaverse.version>9.5.2.0-273</pentaho-metaverse.version>
+    <pentaho-metaverse.version>9.4.0.0-SNAPSHOT</pentaho-metaverse.version>
     <pdi-xml-plugin.version>9.5.2.0-273</pdi-xml-plugin.version>
     <pdi-json-plugin.version>9.5.2.0-273</pdi-json-plugin.version>
   </properties>

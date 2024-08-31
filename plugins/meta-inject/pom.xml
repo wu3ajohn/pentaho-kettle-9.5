@@ -22,7 +22,7 @@
   </modules>
   <properties>
     <pdi.version>9.5.2.0-273</pdi.version>
-    <pentaho-metaverse.version>9.5.2.0-273</pentaho-metaverse.version>
+    <pentaho-metaverse.version>9.4.0.0-SNAPSHOT</pentaho-metaverse.version>
     <jface.version>3.3.0-I20070606-0010</jface.version>
     <blueprints-core.version>2.6.0</blueprints-core.version>
   </properties>
