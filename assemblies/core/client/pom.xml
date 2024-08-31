@@ -16,7 +16,7 @@
   <properties>
     <pdi-dataservice-driver-bundle.version>9.4.0.0-SNAPSHOT</pdi-dataservice-driver-bundle.version>
 
-    <pentaho-launcher.version>9.5.2.0-273</pentaho-launcher.version>
+    <pentaho-launcher.version>9.4.0.0-SNAPSHOT</pentaho-launcher.version>
     <oss-licenses.version>9.4.0.0-SNAPSHOT</oss-licenses.version>
     <pentaho-karaf.version>9.5.2.0-273</pentaho-karaf.version>
 
