@@ -24,7 +24,7 @@
     <maven-failsafe-plugin.reuseForks>false</maven-failsafe-plugin.reuseForks>
 
     <!-- Pentaho dependencies -->
-    <pentaho-reporting.version>9.5.2.0-273</pentaho-reporting.version>
+    <pentaho-reporting.version>9.4.0.0-SNAPSHOT</pentaho-reporting.version>
     <pentaho-registry.version>9.4.0.0-SNAPSHOT</pentaho-registry.version>
     <pentaho-connections.version>9.5.2.0-273</pentaho-connections.version>
     <mondrian.version>9.4.0.0-SNAPSHOT</mondrian.version>

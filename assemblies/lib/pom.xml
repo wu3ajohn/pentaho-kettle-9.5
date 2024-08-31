@@ -26,7 +26,7 @@
     <pentaho-registry.version>9.5.2.0-273</pentaho-registry.version>
     <pentaho-metaverse.version>9.4.0.0-SNAPSHOT</pentaho-metaverse.version>
     <platform.version>9.4.0.0-SNAPSHOT</platform.version>
-    <pentaho-reporting.version>9.5.2.0-273</pentaho-reporting.version>
+    <pentaho-reporting.version>9.4.0.0-SNAPSHOT</pentaho-reporting.version>
     <pdi-osgi-bridge.version>9.5.2.0-273</pdi-osgi-bridge.version>
     <pentaho-hadoop-shims.version>9.5.2.0-273</pentaho-hadoop-shims.version>
 
