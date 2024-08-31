@@ -146,7 +146,7 @@
     <dependency>
       <groupId>org.pentaho</groupId>
       <artifactId>pentaho-encryption-support</artifactId>
-      <version>${pdi.version}</version>
+      <version>9.4.0.0-SNAPSHOT</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
