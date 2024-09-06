@@ -20,8 +20,8 @@
     <pdi.version>9.5.2.0-273</pdi.version>
 
     <!-- Pentaho dependenceis -->
-    <platform.version>9.4.0.0-SNAPSHOT</platform.version>
-    <pentaho-json.version>9.4.0.0-SNAPSHOT</pentaho-json.version>
+    <platform.version>9.5.2.0-272</platform.version>
+    <pentaho-json.version>9.5.2.0-272</pentaho-json.version>
 
     <!-- Third party dependencies -->
     <webservices-api.version>2.3.1</webservices-api.version>

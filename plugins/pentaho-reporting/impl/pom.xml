@@ -11,7 +11,7 @@
   </parent>
 
   <properties>
-    <pentaho-reporting.version>9.4.0.0-SNAPSHOT</pentaho-reporting.version>
+    <pentaho-reporting.version>9.5.2.0-272</pentaho-reporting.version>
   </properties>
 
   <artifactId>pentaho-reporting-plugins-impl</artifactId>

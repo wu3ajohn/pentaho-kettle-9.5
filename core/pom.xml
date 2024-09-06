@@ -39,16 +39,16 @@
     <woodstox-core-asl.version>4.4.1</woodstox-core-asl.version>
     <xmlunit.version>1.5</xmlunit.version>
     <joda.version>2.10.2</joda.version>
-	<!-- Pentaho Dependencies  https://hitachiedge1.jfrog.io/ui/native/pnt-mvn/org/pentaho/pentaho-encryption-support/9.4.0.0-SNAPSHOT/ -->
-    <encryption-support.version>9.4.0.0-SNAPSHOT</encryption-support.version> 
+	<!-- Pentaho Dependencies  https://hitachiedge1.jfrog.io/ui/native/pnt-mvn/org/pentaho/pentaho-encryption-support/9.5.2.0-272/ -->
+    <encryption-support.version>9.5.2.0-272</encryption-support.version> 
   </properties>
 
   <dependencies>
-    <!-- Pentaho Dependencies  https://hitachiedge1.jfrog.io/ui/native/pnt-mvn/pentaho/metastore/9.4.0.0-SNAPSHOT/ -->
+    <!-- Pentaho Dependencies  https://hitachiedge1.jfrog.io/ui/native/pnt-mvn/pentaho/metastore/9.5.2.0-272/ -->
     <dependency>
       <groupId>pentaho</groupId>
       <artifactId>metastore</artifactId>
-	  <version>9.4.0.0-SNAPSHOT</version>
+	  <version>9.5.2.0-272</version>
     </dependency>
 
     <!-- Third-party dependencies -->
